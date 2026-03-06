@@ -5,6 +5,7 @@ Thank you for using PinyinVision.
 ## About the App
 
 PinyinVision converts Chinese characters into pinyin from photos.  
+
 All recognition is processed locally on your device.
 
 We do not collect, store, or share any user data.
@@ -14,6 +15,7 @@ We do not collect, store, or share any user data.
 PinyinVision does not collect, store, or share any personal data.
 
 All text recognition is processed locally on the device.
+
 No information is transmitted to any server.
 
 
