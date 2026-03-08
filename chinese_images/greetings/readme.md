@@ -1,4 +1,3 @@
-<img width="432" height="64" alt="image" src="https://github.com/user-attachments/assets/2ae38091-c78b-4a1c-bc42-b5cb9a13ec2b" />
 # Greetings – Chinese Learning Images
 
 This folder contains Chinese learning images related to **basic greetings**.
