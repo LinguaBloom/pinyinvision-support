@@ -19,7 +19,7 @@ This makes them suitable for both **learning** and **text recognition testing**.
 ## Example
 
 <p align="center">
-<img src="../chinese_images/greetings/word_nihao_hello.png" width="300">
+<img src="word_nihao_hello.png" width="300">
 </p>
 
 ## Naming Format
